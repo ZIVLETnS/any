@@ -1,0 +1,15 @@
+	html, body{
+		padding:0px;
+		margin:0px;
+		height:100%;
+	}
+
+	header{
+		height:10%;
+		background:yellow;
+	}
+	nav{height:80%;margin:10px;background:pink}
+	footer{height:10%;background:violet;text-align:left;}
+    h1{
+		text-align:center;
+	}

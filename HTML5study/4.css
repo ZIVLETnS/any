@@ -1,0 +1,28 @@
+	html, body{
+		padding:0px;
+		margin:0px;
+		height:100%;
+	}
+	header{
+		height:20%;
+		background:yellow;
+		overflow:hidden;
+	}
+	nav{
+		height:72%;
+		width:15%;
+		background:orange;
+		float: left;
+	}
+	section{
+		height:72%;
+		width:85%;
+		float: left;
+		background:skyblue;
+		overflow:hidden;
+	}
+
+	footer{height:8%;width:100%;background:violet;float: left;}
+	h1{
+		text-align:center;
+	}
